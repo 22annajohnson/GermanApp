@@ -1,0 +1,256 @@
+{
+    "vocabulary": [{
+            "chapter": 1,
+            "section": [{
+                    "number": 1,
+                    "vocabSection": [{
+                            "name": "Substantive",
+                            "subsections": [{
+                                    "name": "Die Jahreszeiten",
+                                    "vocab": [{
+                                            "word": "Frühling",
+                                            "definition": "Spring",
+                                            "article": "der",
+                                            "gender": "Masculine"
+                                        },
+                                        {
+                                            "word": "Sommer",
+                                            "definition": "Summer",
+                                            "article": "der",
+                                            "gender": "Masculine"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Das Wetter",
+                                    "vocab": [{
+                                            "word": "Regen",
+                                            "definition": "Rain",
+                                            "article": "der",
+                                            "gender": "Masculine"
+                                        },
+                                        {
+                                            "word": "Schnee",
+                                            "definition": "Snow",
+                                            "article": "der",
+                                            "gender": "Masculine"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "number": 2,
+                    "vocabSection": [{
+                            "name": "Substantive",
+                            "subsections": [{
+                                    "name": "Die Jahreszeiten",
+                                    "vocab": [{
+                                            "word": "Frühling",
+                                            "definition": "Spring",
+                                            "article": "der",
+                                            "gender": "Masculine"
+                                        },
+                                        {
+                                            "word": "Sommer",
+                                            "definition": "Summer",
+                                            "article": "der",
+                                            "gender": "Masculine"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Das Wetter",
+                                    "vocab": [{
+                                            "word": "Regen",
+                                            "definition": "Rain",
+                                            "article": "der",
+                                            "gender": "Masculine"
+                                        },
+                                        {
+                                            "word": "Schnee",
+                                            "definition": "Snow",
+                                            "article": "der",
+                                            "gender": "Masculine"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+                "chapter": 2,
+                "section": [{
+                        "number": 1,
+                        "vocabSection": [{
+                                "name": "Substantive",
+                                "subsections": [{
+                                        "name": "Die Jahreszeiten",
+                                        "vocab": [{
+                                                "word": "Frühling",
+                                                "definition": "Spring",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "Sommer",
+                                                "definition": "Summer",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Das Wetter",
+                                        "vocab": [{
+                                                "word": "Regen",
+                                                "definition": "Rain",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "Schnee",
+                                                "definition": "Snow",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "vocabSection": [{
+                                "name": "Substantive",
+                                "subsections": [{
+                                        "name": "Die Jahreszeiten",
+                                        "vocab": [{
+                                                "word": "Frühling",
+                                                "definition": "Spring",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "Sommer",
+                                                "definition": "Summer",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Das Wetter",
+                                        "vocab": [{
+                                                "word": "Regen",
+                                                "definition": "Rain",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "Schnee",
+                                                "definition": "Snow",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+        {
+                "chapter": 3,
+                "section": [{
+                        "number": 1,
+                        "vocabSection": [{
+                                "name": "Substantive",
+                                "subsections": [{
+                                        "name": "Die Jahreszeiten",
+                                        "vocab": [{
+                                                "word": "Frühling",
+                                                "definition": "Spring",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "Sommer",
+                                                "definition": "Summer",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Das Wetter",
+                                        "vocab": [{
+                                                "word": "Regen",
+                                                "definition": "Rain",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "Schnee",
+                                                "definition": "Snow",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "number": 2,
+                        "vocabSection": [{
+                                "name": "Substantive",
+                                "subsections": [{
+                                        "name": "Die Jahreszeiten",
+                                        "vocab": [{
+                                                "word": "Frühling",
+                                                "definition": "Spring",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "Sommer",
+                                                "definition": "Summer",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Das Wetter",
+                                        "vocab": [{
+                                                "word": "Regen",
+                                                "definition": "Rain",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "Schnee",
+                                                "definition": "Snow",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        
+    ]
+}

@@ -1,0 +1,93 @@
+
+{
+    "Kapital Zwei": {
+        "Volkabeln Eins": {
+            "Substantive": {
+                "Die Jahreszeiten": {
+                    "Frühling": {
+                        "Definition": "Spring",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Sommer": {
+                        "Definition": "Summer",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Herbst": {
+                        "Definition": "Fall",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Winter": {
+                        "Definition": "Winter",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    }
+                }
+                
+                "Das Wetter": {
+                    "Regen": {
+                        "Definition": "Rain",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Schnee": {
+                        "Definition": "Snow",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Wind": {
+                        "Definition": "Wind",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Grad": {
+                        "Definition": "Degree",
+                        "Article": "das",
+                        "Gender": "Neuter"
+                    },
+                    "Sonne": {
+                        "Definition": "Sun",
+                        "Article": "die",
+                        "Gender": "Feminine"
+                    }
+                },
+                
+                "Weitere Substantive": {
+                    "Geurstag, -e": {
+                        "Definition": "Birthday",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Monat, -e": {
+                        "Definition": "Month",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Stau": {
+                        "Definition": "Traffic Jam",
+                        "Article": "der",
+                        "Gender": "Masculine"
+                    },
+                    "Ende": {
+                        "Definition": "The end of [Month]",
+                        "Article": "das",
+                        "Gender": "Neuter"
+                    },
+                    "Party": {
+                        "Definition": "Party",
+                        "Article": "die",
+                        "Gender": "Feminine"
+                    },
+                    "Reise, -n": {
+                        "Definition": "Trip",
+                        "Article": "die",
+                        "Gender": "Feminine"
+                    }
+                }
+            }
+        }
+    }
+    
+}

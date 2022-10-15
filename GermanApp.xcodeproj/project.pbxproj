@@ -9,23 +9,45 @@
 /* Begin PBXBuildFile section */
 		57357EBE28F1B51300210617 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EBD28F1B51300210617 /* AppDelegate.swift */; };
 		57357EC028F1B51300210617 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EBF28F1B51300210617 /* SceneDelegate.swift */; };
-		57357EC228F1B51300210617 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EC128F1B51300210617 /* ViewController.swift */; };
-		57357EC528F1B51300210617 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57357EC328F1B51300210617 /* Main.storyboard */; };
 		57357EC828F1B51300210617 /* Learning.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 57357EC628F1B51300210617 /* Learning.xcdatamodeld */; };
 		57357ECA28F1B51500210617 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57357EC928F1B51500210617 /* Assets.xcassets */; };
 		57357ECD28F1B51500210617 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57357ECB28F1B51500210617 /* LaunchScreen.storyboard */; };
+		57357ED528F1B61900210617 /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357ED428F1B61900210617 /* MainTabBarViewController.swift */; };
+		57357ED728F1B66400210617 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357ED628F1B66400210617 /* HomeViewController.swift */; };
+		57357EDA28F1B71900210617 /* AccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357ED928F1B71900210617 /* AccountViewController.swift */; };
+		57357EDC28F74AF900210617 /* vocab.json in Resources */ = {isa = PBXBuildFile; fileRef = 57357EDB28F74AF900210617 /* vocab.json */; };
+		57357EE128F74E8B00210617 /* Chapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EE028F74E8B00210617 /* Chapter.swift */; };
+		57357EE328F74F7400210617 /* FileLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EE228F74F7400210617 /* FileLoader.swift */; };
+		57357EEA28F756AC00210617 /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = 57357EE928F756AC00210617 /* test.json */; };
+		57357EED28F7BE7400210617 /* ChapterModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EEC28F7BE7400210617 /* ChapterModel.swift */; };
+		57357EEF28F7C06700210617 /* ChapterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EEE28F7C06700210617 /* ChapterViewModel.swift */; };
+		57357EF328F7C62900210617 /* ChapterCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EF228F7C62900210617 /* ChapterCardViewController.swift */; };
+		57357EF528F87F8A00210617 /* EmbedController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EF428F87F8A00210617 /* EmbedController.swift */; };
+		57357F0028FA152A00210617 /* ChapterCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EFF28FA152A00210617 /* ChapterCardView.swift */; };
+		57357F0228FA3F5A00210617 /* VocabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357F0128FA3F5A00210617 /* VocabViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		57357EBA28F1B51300210617 /* Learning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Learning.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		57357EBA28F1B51300210617 /* GermanApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GermanApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57357EBD28F1B51300210617 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57357EBF28F1B51300210617 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		57357EC128F1B51300210617 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		57357EC428F1B51300210617 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		57357EC728F1B51300210617 /* Learning.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Learning.xcdatamodel; sourceTree = "<group>"; };
 		57357EC928F1B51500210617 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57357ECC28F1B51500210617 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57357ECE28F1B51500210617 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57357ED428F1B61900210617 /* MainTabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarViewController.swift; sourceTree = "<group>"; };
+		57357ED628F1B66400210617 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		57357ED928F1B71900210617 /* AccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewController.swift; sourceTree = "<group>"; };
+		57357EDB28F74AF900210617 /* vocab.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vocab.json; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.json; };
+		57357EE028F74E8B00210617 /* Chapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter.swift; sourceTree = "<group>"; };
+		57357EE228F74F7400210617 /* FileLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileLoader.swift; sourceTree = "<group>"; };
+		57357EE928F756AC00210617 /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = test.json; sourceTree = "<group>"; };
+		57357EEC28F7BE7400210617 /* ChapterModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterModel.swift; sourceTree = "<group>"; };
+		57357EEE28F7C06700210617 /* ChapterViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterViewModel.swift; sourceTree = "<group>"; };
+		57357EF228F7C62900210617 /* ChapterCardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterCardViewController.swift; sourceTree = "<group>"; };
+		57357EF428F87F8A00210617 /* EmbedController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmbedController.swift; sourceTree = "<group>"; };
+		57357EFF28FA152A00210617 /* ChapterCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterCardView.swift; sourceTree = "<group>"; };
+		57357F0128FA3F5A00210617 /* VocabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,7 +64,7 @@
 		57357EB128F1B51300210617 = {
 			isa = PBXGroup;
 			children = (
-				57357EBC28F1B51300210617 /* Learning */,
+				57357EBC28F1B51300210617 /* GermanApp */,
 				57357EBB28F1B51300210617 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,32 +72,75 @@
 		57357EBB28F1B51300210617 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				57357EBA28F1B51300210617 /* Learning.app */,
+				57357EBA28F1B51300210617 /* GermanApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		57357EBC28F1B51300210617 /* Learning */ = {
+		57357EBC28F1B51300210617 /* GermanApp */ = {
 			isa = PBXGroup;
 			children = (
+				57357EEB28F7BE3400210617 /* Resources */,
+				57357EE628F7537700210617 /* Views */,
+				57357EDF28F74E7A00210617 /* Models */,
+				57357ED828F1B70200210617 /* ViewControllers */,
 				57357EBD28F1B51300210617 /* AppDelegate.swift */,
 				57357EBF28F1B51300210617 /* SceneDelegate.swift */,
-				57357EC128F1B51300210617 /* ViewController.swift */,
-				57357EC328F1B51300210617 /* Main.storyboard */,
 				57357EC928F1B51500210617 /* Assets.xcassets */,
 				57357ECB28F1B51500210617 /* LaunchScreen.storyboard */,
 				57357ECE28F1B51500210617 /* Info.plist */,
 				57357EC628F1B51300210617 /* Learning.xcdatamodeld */,
+				57357EDB28F74AF900210617 /* vocab.json */,
+				57357EE928F756AC00210617 /* test.json */,
 			);
-			path = Learning;
+			path = GermanApp;
+			sourceTree = "<group>";
+		};
+		57357ED828F1B70200210617 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				57357ED928F1B71900210617 /* AccountViewController.swift */,
+				57357ED428F1B61900210617 /* MainTabBarViewController.swift */,
+				57357ED628F1B66400210617 /* HomeViewController.swift */,
+				57357EF228F7C62900210617 /* ChapterCardViewController.swift */,
+				57357F0128FA3F5A00210617 /* VocabViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		57357EDF28F74E7A00210617 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				57357EEC28F7BE7400210617 /* ChapterModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		57357EE628F7537700210617 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				57357EEE28F7C06700210617 /* ChapterViewModel.swift */,
+				57357EFF28FA152A00210617 /* ChapterCardView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		57357EEB28F7BE3400210617 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				57357EE028F74E8B00210617 /* Chapter.swift */,
+				57357EE228F74F7400210617 /* FileLoader.swift */,
+				57357EF428F87F8A00210617 /* EmbedController.swift */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		57357EB928F1B51300210617 /* Learning */ = {
+		57357EB928F1B51300210617 /* GermanApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 57357ED128F1B51500210617 /* Build configuration list for PBXNativeTarget "Learning" */;
+			buildConfigurationList = 57357ED128F1B51500210617 /* Build configuration list for PBXNativeTarget "GermanApp" */;
 			buildPhases = (
 				57357EB628F1B51300210617 /* Sources */,
 				57357EB728F1B51300210617 /* Frameworks */,
@@ -85,9 +150,9 @@
 			);
 			dependencies = (
 			);
-			name = Learning;
+			name = GermanApp;
 			productName = Learning;
-			productReference = 57357EBA28F1B51300210617 /* Learning.app */;
+			productReference = 57357EBA28F1B51300210617 /* GermanApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +170,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 57357EB528F1B51300210617 /* Build configuration list for PBXProject "Learning" */;
+			buildConfigurationList = 57357EB528F1B51300210617 /* Build configuration list for PBXProject "GermanApp" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +183,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				57357EB928F1B51300210617 /* Learning */,
+				57357EB928F1B51300210617 /* GermanApp */,
 			);
 		};
 /* End PBXProject section */
@@ -129,8 +194,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				57357ECD28F1B51500210617 /* LaunchScreen.storyboard in Resources */,
+				57357EEA28F756AC00210617 /* test.json in Resources */,
+				57357EDC28F74AF900210617 /* vocab.json in Resources */,
 				57357ECA28F1B51500210617 /* Assets.xcassets in Resources */,
-				57357EC528F1B51300210617 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,24 +207,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				57357EC228F1B51300210617 /* ViewController.swift in Sources */,
+				57357ED528F1B61900210617 /* MainTabBarViewController.swift in Sources */,
+				57357EF328F7C62900210617 /* ChapterCardViewController.swift in Sources */,
+				57357F0228FA3F5A00210617 /* VocabViewController.swift in Sources */,
+				57357EE328F74F7400210617 /* FileLoader.swift in Sources */,
+				57357EDA28F1B71900210617 /* AccountViewController.swift in Sources */,
+				57357EE128F74E8B00210617 /* Chapter.swift in Sources */,
+				57357EEF28F7C06700210617 /* ChapterViewModel.swift in Sources */,
 				57357EC828F1B51300210617 /* Learning.xcdatamodeld in Sources */,
 				57357EBE28F1B51300210617 /* AppDelegate.swift in Sources */,
 				57357EC028F1B51300210617 /* SceneDelegate.swift in Sources */,
+				57357EF528F87F8A00210617 /* EmbedController.swift in Sources */,
+				57357ED728F1B66400210617 /* HomeViewController.swift in Sources */,
+				57357F0028FA152A00210617 /* ChapterCardView.swift in Sources */,
+				57357EED28F7BE7400210617 /* ChapterModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		57357EC328F1B51300210617 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				57357EC428F1B51300210617 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		57357ECB28F1B51500210617 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -293,10 +361,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QTSJFA7Y7P;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Learning/Info.plist;
+				INFOPLIST_FILE = GermanApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -304,7 +371,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.AnnaJohnson.Learning;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AnnaJohnson.GermanApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -321,10 +388,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QTSJFA7Y7P;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Learning/Info.plist;
+				INFOPLIST_FILE = GermanApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -332,7 +398,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.AnnaJohnson.Learning;
+				PRODUCT_BUNDLE_IDENTIFIER = com.AnnaJohnson.GermanApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -343,7 +409,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		57357EB528F1B51300210617 /* Build configuration list for PBXProject "Learning" */ = {
+		57357EB528F1B51300210617 /* Build configuration list for PBXProject "GermanApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				57357ECF28F1B51500210617 /* Debug */,
@@ -352,7 +418,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		57357ED128F1B51500210617 /* Build configuration list for PBXNativeTarget "Learning" */ = {
+		57357ED128F1B51500210617 /* Build configuration list for PBXNativeTarget "GermanApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				57357ED228F1B51500210617 /* Debug */,

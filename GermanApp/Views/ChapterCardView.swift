@@ -29,13 +29,14 @@ class ChapterCardView: UIView {
 
         addSubview(chapterView)
         
-        let chapterVm = ChapterViewModel(chapterIndex: index)
+        let chapterVm = ChapterViewModel(chapterIndex: index, sectionIndex: 0, subsectionIndex: 0, categoryIndex: 0)
         let number = chapterVm.number
         let germanNumber = convertToGerman(number: chapterVm.number)
         
         chapterView.addSubview(chapterLabel(germanNumber: germanNumber))
         chapterView.addSubview(chapterNumber(number: number))
         chapterView.addSubview(openArrow())
+        
        
     }
     
@@ -74,6 +75,8 @@ class ChapterCardView: UIView {
 
         return view
     }
+    
+
 
 
 }

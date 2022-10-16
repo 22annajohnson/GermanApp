@@ -25,6 +25,10 @@
 		57357EF528F87F8A00210617 /* EmbedController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EF428F87F8A00210617 /* EmbedController.swift */; };
 		57357F0028FA152A00210617 /* ChapterCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357EFF28FA152A00210617 /* ChapterCardView.swift */; };
 		57357F0228FA3F5A00210617 /* VocabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57357F0128FA3F5A00210617 /* VocabViewController.swift */; };
+		576FFE7428FA4CA300BCBF7F /* VocabCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576FFE7328FA4CA300BCBF7F /* VocabCardView.swift */; };
+		576FFE7628FA4DFD00BCBF7F /* SwipingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576FFE7528FA4DFD00BCBF7F /* SwipingViewController.swift */; };
+		57E9976B28FA6EF900929D57 /* PageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E9976A28FA6EF900929D57 /* PageCollectionViewCell.swift */; };
+		57E9976D28FA794600929D57 /* Pages.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E9976C28FA794600929D57 /* Pages.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +52,10 @@
 		57357EF428F87F8A00210617 /* EmbedController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmbedController.swift; sourceTree = "<group>"; };
 		57357EFF28FA152A00210617 /* ChapterCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterCardView.swift; sourceTree = "<group>"; };
 		57357F0128FA3F5A00210617 /* VocabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabViewController.swift; sourceTree = "<group>"; };
+		576FFE7328FA4CA300BCBF7F /* VocabCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabCardView.swift; sourceTree = "<group>"; };
+		576FFE7528FA4DFD00BCBF7F /* SwipingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipingViewController.swift; sourceTree = "<group>"; };
+		57E9976A28FA6EF900929D57 /* PageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageCollectionViewCell.swift; sourceTree = "<group>"; };
+		57E9976C28FA794600929D57 /* Pages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pages.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,8 +89,8 @@
 			isa = PBXGroup;
 			children = (
 				57357EEB28F7BE3400210617 /* Resources */,
-				57357EE628F7537700210617 /* Views */,
 				57357EDF28F74E7A00210617 /* Models */,
+				57357EE628F7537700210617 /* Views */,
 				57357ED828F1B70200210617 /* ViewControllers */,
 				57357EBD28F1B51300210617 /* AppDelegate.swift */,
 				57357EBF28F1B51300210617 /* SceneDelegate.swift */,
@@ -104,6 +112,7 @@
 				57357ED628F1B66400210617 /* HomeViewController.swift */,
 				57357EF228F7C62900210617 /* ChapterCardViewController.swift */,
 				57357F0128FA3F5A00210617 /* VocabViewController.swift */,
+				576FFE7528FA4DFD00BCBF7F /* SwipingViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -112,6 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				57357EEC28F7BE7400210617 /* ChapterModel.swift */,
+				57E9976C28FA794600929D57 /* Pages.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -121,6 +131,8 @@
 			children = (
 				57357EEE28F7C06700210617 /* ChapterViewModel.swift */,
 				57357EFF28FA152A00210617 /* ChapterCardView.swift */,
+				576FFE7328FA4CA300BCBF7F /* VocabCardView.swift */,
+				57E9976A28FA6EF900929D57 /* PageCollectionViewCell.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -213,6 +225,9 @@
 				57357EE328F74F7400210617 /* FileLoader.swift in Sources */,
 				57357EDA28F1B71900210617 /* AccountViewController.swift in Sources */,
 				57357EE128F74E8B00210617 /* Chapter.swift in Sources */,
+				57E9976D28FA794600929D57 /* Pages.swift in Sources */,
+				57E9976B28FA6EF900929D57 /* PageCollectionViewCell.swift in Sources */,
+				576FFE7628FA4DFD00BCBF7F /* SwipingViewController.swift in Sources */,
 				57357EEF28F7C06700210617 /* ChapterViewModel.swift in Sources */,
 				57357EC828F1B51300210617 /* Learning.xcdatamodeld in Sources */,
 				57357EBE28F1B51300210617 /* AppDelegate.swift in Sources */,
@@ -220,6 +235,7 @@
 				57357EF528F87F8A00210617 /* EmbedController.swift in Sources */,
 				57357ED728F1B66400210617 /* HomeViewController.swift in Sources */,
 				57357F0028FA152A00210617 /* ChapterCardView.swift in Sources */,
+				576FFE7428FA4CA300BCBF7F /* VocabCardView.swift in Sources */,
 				57357EED28F7BE7400210617 /* ChapterModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

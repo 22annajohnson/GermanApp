@@ -38,7 +38,43 @@
                                     ]
                                 }
                             ]
-                        }
+                        },
+                        {
+                                "name": "Adjektive",
+                                "subsections": [{
+                                        "name": "Test",
+                                        "vocab": [{
+                                                "word": "1",
+                                                "definition": "Spring",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "2",
+                                                "definition": "Summer",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Das Wetter",
+                                        "vocab": [{
+                                                "word": "3",
+                                                "definition": "Rain",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            },
+                                            {
+                                                "word": "4",
+                                                "definition": "Snow",
+                                                "article": "der",
+                                                "gender": "Masculine"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
                     ]
                 },
                 {
@@ -48,13 +84,13 @@
                             "subsections": [{
                                     "name": "Die Jahreszeiten",
                                     "vocab": [{
-                                            "word": "Frühling",
+                                            "word": "1",
                                             "definition": "Spring",
                                             "article": "der",
                                             "gender": "Masculine"
                                         },
                                         {
-                                            "word": "Sommer",
+                                            "word": "2",
                                             "definition": "Summer",
                                             "article": "der",
                                             "gender": "Masculine"
@@ -62,7 +98,7 @@
                                     ]
                                 },
                                 {
-                                    "name": "Das Wetter",
+                                    "name": "Test",
                                     "vocab": [{
                                             "word": "Regen",
                                             "definition": "Rain",
@@ -90,7 +126,7 @@
                         "vocabSection": [{
                                 "name": "Substantive",
                                 "subsections": [{
-                                        "name": "Die Jahreszeiten",
+                                        "name": "Section 2",
                                         "vocab": [{
                                                 "word": "Frühling",
                                                 "definition": "Spring",

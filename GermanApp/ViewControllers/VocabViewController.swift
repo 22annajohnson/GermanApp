@@ -14,6 +14,7 @@ class VocabViewController: UIViewController {
         view.backgroundColor = .yellow
         
         
+        
 
     }
     
